@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Кирилл Дусенко](https://up.htmlacademy.ru/htmlcss/33/user/1991599).
-* Наставник: `Неизвестно`.
+* Наставник: [Artem Ryzhov] (https://htmlacademy.ru/profile/id1387905)
 
 ---
 
